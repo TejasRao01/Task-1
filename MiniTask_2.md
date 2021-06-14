@@ -84,7 +84,7 @@ out in arecursive fashion
 
 
 
- #Gesture Controlled Robot https://www.hackster.io/357221/gesture-controlled-robot-74c5a5
+ # Gesture Controlled Robot https://www.hackster.io/357221/gesture-controlled-robot-74c5a5
 
 
 Project Statement – The project aims to create a gesture controlled robot. The robots motion should be wirerlessly controlled by the motion of a handled motion remote. The robot should have complete freedom to move in any direction. 

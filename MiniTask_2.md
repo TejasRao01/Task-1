@@ -85,12 +85,8 @@ Ideation and Planning:
 | --- | --- | --- | --- |
 |Microcontroller (Arduino) |Very Difficult, unless experienced programmer.|It is easily programmable and is versatile with several builtin libraries.|Limited executions.Hard for beginners.|
 |IMU|It is built by the manufacturer, so it can’t be modified.|It senses changes in orientation and can be used for detecting hand gestures.|It has to be held in the hand and is cumbersome to carry around.|
-|Rf transmitter and reciever.|Very difficult to modify unless you are a skilled professional.| Enables wireless communication and is Arduino compatible.| They are inexpensive and a lot of options are available.|
-|There is only one frequency at which it can be operated. Also it has limited bandwidth.|
-|L298 Motor Drivers and motor casing.|
-Can be easily controlled and customisd.| 
-They enable communication with the motors, are inexpensive and there are lot of options.|
-H-bridge ICs come indifferent datasheets,making it a littledifficult task|
+|Rf transmitter and reciever.|Very difficult to modify unless you are a skilled professional.| Enables wireless communication and is Arduino compatible.| They are inexpensive and a lot of options are available.|There is only one frequency at which it can be operated. Also it has limited bandwidth.|
+|L298 Motor Drivers and motor casing.|Can be easily controlled and customised.| They enable communication with the motors, are inexpensive and there are lot of options.|H-bridge ICs come indifferent datasheets,making it a littledifficult task|
 
 
 

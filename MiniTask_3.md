@@ -1,5 +1,5 @@
 
-Raspberry Pi Security Camera www.instructables.com/Raspberry-Pi-Security-Camera-1/
+# Raspberry Pi Security Camera www.instructables.com/Raspberry-Pi-Security-Camera-1/
 
 
 The Security camera has 3 major components, the Camera, the Raspberry Pi, and the Motion sensor. 
@@ -26,8 +26,7 @@ Finally, we have the Software. Issues with the software can only be diagnosed by
 
 
 
-
- Gesture Controlled Robot https://www.hackster.io/357221/gesture-controlled-robot-74c5a5
+ # Gesture Controlled Robot https://www.hackster.io/357221/gesture-controlled-robot-74c5a5
 
 
 The Gesture Controlled Robot has the following sub-systems; the IMU, the microcontrollers, the motor drivers, the RF recievers. Before anything else, each of the sub-systems are checked if they are powering on. Incase this isnt the case, they need to be replaced. Next, all connections between the connects are checked and tighened.

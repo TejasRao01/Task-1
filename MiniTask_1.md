@@ -9,7 +9,8 @@ Finally, there is an LED display screen connected to the microcontroller that di
 Comments-
 
 While the system is based on a 8051 microcontroller, it can easily be replicated by using an Arduino instead. The system can be improved by increasing the sensitivity by either using more wires or different types of sensors (maybe detecting the level of water by measuringing conductivity and feeding in analog input, instead) .
-**
+
+
 **Project-2**
 
 Raspberry Pi Security Camera www.instructables.com/Raspberry-Pi-Security-Camera-1/

@@ -77,36 +77,24 @@ Project Statement – The project aims to create a gesture controlled robot. The
 
 Ideation and Planning: 
 
-    • The components that are needed for this project are an IMU , two microcontrollers, Rf reciever and transmitter, robot chassis, two servo motors, wheels for the robot, batteries, breadboards and a few other electronic components such as wires.
-    • Part of the pipeline to break:
+   • The components that are needed for this project are an IMU , two microcontrollers, Rf reciever and transmitter, robot chassis, two servo motors, wheels for the robot, batteries, breadboards and a few other electronic components such as wires.
+   • Part of the pipeline to break:
 
 
-Part of the Pipeline 
-Feasibility
-Advantages
-Disadvantages
-Microcontroller (Arduino) 
-Very Difficult, unless experienced programmer.
-It is easily programmable and is versatile with several builtin libraries.
-Limited executions.Hard for beginners.
-IMU
-It is built by the manufacturer, so it can’t be modified.
-It senses changes in orientation and can be used for detecting hand gestures. They are 
-It has to be held in the hand and is cumbersome to carry around.
-Rf transmitter and reciever.
-Very difficult to modify unless you are a skilled professional
-Enables wireless communication and is Arduino compatible. They are inexpensive and a lot of options are available.
-There is only one frequency at which it can be operated. Also it has limited bandwidth.
-L298 Motor Drivers and motor casing.
-
-
-Can be easily controlled and customisd. 
-They enable communication with the motors, are inexpensive and there are lot of options
-H-bridge ICs come indifferent datasheets,making it a littledifficult task
+|Part of the Pipeline |Feasibility|Advantages| Disadvantages|
+| --- | --- | --- | --- |
+|Microcontroller (Arduino) |Very Difficult, unless experienced programmer.|It is easily programmable and is versatile with several builtin libraries.|Limited executions.Hard for beginners.|
+|IMU|It is built by the manufacturer, so it can’t be modified.|It senses changes in orientation and can be used for detecting hand gestures.|It has to be held in the hand and is cumbersome to carry around.|
+|Rf transmitter and reciever.|Very difficult to modify unless you are a skilled professional.| Enables wireless communication and is Arduino compatible.| They are inexpensive and a lot of options are available.|
+|There is only one frequency at which it can be operated. Also it has limited bandwidth.|
+|L298 Motor Drivers and motor casing.|
+Can be easily controlled and customisd.| 
+They enable communication with the motors, are inexpensive and there are lot of options.|
+H-bridge ICs come indifferent datasheets,making it a littledifficult task|
 
 
 
-    • Choosing the pipeline -
+   • Choosing the pipeline -
 	From the above table it seems that the major areas of improvement can be done  in IMU and motor drivers. The IMU that they use (Gy-521 MPU-6050 MPU6050 Module 3) is moderately expensive. However, the major issue is that it can often be inconvenient to have an extra remote. Therefore, the task of motion sensing can be done using smart phones instead. A special app can be created for the smart phones, which can then make use of the accelerometers and gyroscopic sensors of the phone to communicate with the microcontrollers. The only issue with this is the feasibility of making an android app. 
  
 The motor drivers recieve signals from the Arduinos and translate those signals to run the motors. The issues that may arise would be that operational voltages of the Arduino and the driver might be different which can be sorted by using a resistor or potentiometer system or scaling the output using software. 

@@ -14,14 +14,8 @@ Ideation and Planning:
 | --- | --- | --- | --- |
 | Raspberry Pi | Very Difficult, unless experienced programmer.|It is a computer, and so is versatile. |It is very expensive and cannot be mass produced cheaply.|
 | PIR Sensor | It is built by the manufacturer, so it can’t be modified.|It detects motion. It is very convenient to be a ready-made sensor. They are also small inexpensive and low power.| It does not tell the distance or count many peaple or objects there are.|
-Camera 
-Difficult to improve.
-It can capture images and videos.
-The quality of video can vary and it is subject to lighting conditions. 
-Software interface
-It is rather difficult to improve the software interface, but new libraries can be found that improve the performance.
-There are a large number of pre-built python libriaries that can be used.
-There might be security issues.
+|Camera | Difficult to improve.|It can capture images and videos. |The quality of video can vary and it is subject to lighting conditions.| 
+|Software interface| It is rather difficult to improve the software interface, but new libraries can be found that improve the performance.| There are a large number of pre-built python libriaries that can be used.|There might be security issues.|
 
 
 

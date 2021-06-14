@@ -59,6 +59,9 @@ The logic circuit consists primarily of some transistors and the LDR, and its pr
 
 Comments – This project is a simple implementation of a system that detects intruders. An advantage of this system is that it does not need a microcontroller and so is very inexpensive and has low power consumption. A disadvantage is that it will buzz everytime a person, whether that person is an intruder or a friend. Also, the system will not work in low light conditions. The system can be improved by maybe usig 2 LDRs that are separated by some distance.
 
+![p5](https://user-images.githubusercontent.com/85809459/121961446-13b67080-cd85-11eb-8096-7bbf0f2eff5b.jpg)
+
+
 **Project – 6**
 
 Mobile Controlled Home Appliances without Microcontroller

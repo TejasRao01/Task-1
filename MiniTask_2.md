@@ -6,22 +6,14 @@ Project Statement – The project aims to create a security camera system using 
 
 Ideation and Planning: 
 
-    • First stage is identifying the components that are needed for the project. Thehe  components thar are required are the Raspberry Pi, the  PIR sensor, the camera, and the interface.
-    • Part of the pipeline to break:
+   • First stage is identifying the components that are needed for the project. Thehe  components thar are required are the Raspberry Pi, the  PIR sensor, the camera, and the interface.
+   • Part of the pipeline to break:
 
 
-Part of the Pipeline 
-Feasibility
-Advantages
-Disadvantages
-Raspberry Pi
-Very Difficult, unless experienced programmer.
-It is a computer, and so is versatile.
-It is very expensive and cannot be mass produced cheaply.
-PIR Sensor
-It is built by the manufacturer, so it can’t be modified.
-It detects motion. It is very convenient to be a ready-made sensor. They are also small, inexpensive and low power.
-It does not tell the distance or count many peaple or objects there are.
+|Part of the Pipeline | Feasibility | Advantages | Disadvantages |
+| --- | --- | --- | --- |
+| Raspberry Pi | Very Difficult, unless experienced programmer.|It is a computer, and so is versatile. |It is very expensive and cannot be mass produced cheaply.|
+| PIR Sensor | It is built by the manufacturer, so it can’t be modified.|It detects motion. It is very convenient to be a ready-made sensor. They are also small inexpensive and low power.| It does not tell the distance or count many peaple or objects there are.|
 Camera 
 Difficult to improve.
 It can capture images and videos.

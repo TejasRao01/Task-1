@@ -1,4 +1,4 @@
-Project – 1 https://www.electronicshub.org/water-level-controller-using-8051-microcontroller/ Water Level Controller using 8051 Microcontroller Aim - This projects aims to create automate the proccess of controlling the level of water in a tank using a system controlled by a microcontroller.
+**Project – 1** https://www.electronicshub.org/water-level-controller-using-8051-microcontroller/ Water Level Controller using 8051 Microcontroller Aim - This projects aims to create automate the proccess of controlling the level of water in a tank using a system controlled by a microcontroller.
 
 Description – The system consists of a series of sensors that are used to measure the level of water in the tank. The sensors work on the priciplle of the conductivity of water. The system mentioned in the example consists of 4 wires running up to different levels in the tanks. The circuts will get completed based on the level of water inside the tank. Once the circuits get completed, they produce a signal at the inputs of the microcontroller, which is enabled by the help of transistors.
 
@@ -9,14 +9,14 @@ Finally, there is an LED display screen connected to the microcontroller that di
 Comments-
 
 While the system is based on a 8051 microcontroller, it can easily be replicated by using an Arduino instead. The system can be improved by increasing the sensitivity by either using more wires or different types of sensors (maybe detecting the level of water by measuringing conductivity and feeding in analog input, instead) .
-
-Project-2
+**
+**Project-2**
 
 Raspberry Pi Security Camera www.instructables.com/Raspberry-Pi-Security-Camera-1/
 
 Aim – This project seeks to create a security system by using a Raspberry pi. Description – The project requries a Raspberry Pi, a Rasperry Pi compatible camera or Pi camera and motion detection sensor. The components can be directly connected to the Raspberry Pi. The most important task in this project is the creation of a Flask Web Server on the Pi that enables it to automatically take pictures and recordings. The first step of this project is to set up the pi and connect it to the internet. Next, the camera is set up and the Flask library is installed onto the Pi. Once this is done, a form class is created that enables to user to manually select the camera settings and manually record video and audio. Based on this form, a user interface is created using a Flask template. This is written using HTML and is basically used to improve presentation and enable the user to access the form. It is stored in a folder named templates. The template now has to be rendered. To do this a separate file, named appCam.py is created and stored outside the templates folder . To operate the camera, a file named camOperator.py is created, this file is used to ensure access to the built-in functions in the Pi camera. These functions change the record settings of the security camera using the specifications set by the user and also setting up default values in case the user has not set any specific settings. The methods defined in this class change the "record" settings on the security camera using the sensitivity and duration inputs that the user provides, while establishing default values for these variables if user input is not present. Finally a program called rec.py is written that gives instructions to the camera based on the user data. It does so by constantly reading the data from the Flask text file. All recordings are stored in a .h264 or .jpg file.
 
-Project - 3
+**Project - 3**
 
 Gesture Controlled Robot https://www.hackster.io/357221/gesture-controlled-robot-74c5a5
 
@@ -26,7 +26,7 @@ Description – The project consists of an Arduino Uno, Arduino Nano, an Interia
 
 Once the circuits for the reciever and transmission parts are completed, the most important task is coding the control system. The IMU consists of an accelerometer and a gyroscope. The robot should accelerate when the absolute value of acceleration in any direction is between 20 and 80.
 
-Project – 4
+**Project – 4**
 
 Password Based Door Lock System using 8051 Microcontroller
 
@@ -40,7 +40,7 @@ The control system consists of the aforementioned parts as well as a 555 timer t
 
 Comments – This is a rather simple system and the advantages of that are low power consumption and easy design. However, the system has the disadvantage that the door cannot be opened if the password isn’t known and that the range is limited. One possible solution is to make the system more robust by adding a wireless sensor and having a super-password that is only available to the administrator.
 
-Project – 5
+**Project – 5**
 
 Electronic Eye Controlled Security System https://www.electronicshub.org/electronic-eye-controlled-security-system/
 
@@ -54,7 +54,7 @@ The logic circuit consists primarily of some transistors and the LDR, and its pr
 
 Comments – This project is a simple implementation of a system that detects intruders. An advantage of this system is that it does not need a microcontroller and so is very inexpensive and has low power consumption. A disadvantage is that it will buzz everytime a person, whether that person is an intruder or a friend. Also, the system will not work in low light conditions. The system can be improved by maybe usig 2 LDRs that are separated by some distance.
 
-Project – 6
+**Project – 6**
 
 Mobile Controlled Home Appliances without Microcontroller
 
@@ -68,7 +68,7 @@ The components required for this project are prebuild DTMF decoders and relays a
 
 Comments – This is a simple application of remotely controlling home appliances without using a microcontroller. A disadvange of this system is that it requires another cellphone to work, which will be expensive unless there is a spare, unused phone available. Another issue is that there is no security and a limited number of devices can be connected.
 
-Project – 7
+**Project – 7**
 
 Temperature Controlled Switch using LM35, LM358 https://www.electronicshub.org/temperature-controlled-switch/
 
@@ -80,7 +80,7 @@ This project uses a LM35 as the temperature sensor, a LM358 OP-Amp as the contro
 
 Comments – This is an example of a project that does not use a microcontroller to automatically turn on or off appliances at home. A limitation of this system is that it gives only one output for one temperature. If different outputs are needed for dfferent temperature ranges, then a microcontroller might be needed.
 
-Project – 8
+**Project – 8**
 
 Arduino Joystick Interface – Control Servo using Arduino and Joystick https://www.electronicshub.org/arduino-joystick-interface-control-servo/
 
@@ -94,7 +94,7 @@ The interface between the Arduino and hte joystick is achieved using the Joystic
 
 Comments – This project is useful to control remotely controlled cars and LEDs.
 
-Project – 9
+**Project – 9**
 
 Car Parking Guard Circuit Using Infrared Sensor https://www.electronicshub.org/car-parking-guard-circuit-using-infrared-sensor/
 
@@ -108,7 +108,7 @@ If there is an obstacle, the IR sensor recieves the rebound rays, and sends a si
 
 Comments – The circuit for this system is rather complex, however it is not too difficult to repreoduce.
 
-Project – 10 TV Remote Jammer Circuit https://www.electronicshub.org/tv-remote-jammer-circuit/
+**Project – 10** TV Remote Jammer Circuit https://www.electronicshub.org/tv-remote-jammer-circuit/
 
 Aim – To create a jammer circuit for TV remote
 
@@ -118,7 +118,7 @@ Phillips TV remotes follow the RC5 protocol and each button transmits 14 bits. T
 
 Comments – A disadvantage of this circuit is that it difficult to tune the circuit to produce at exactly 38 kHz.
 
-Project – 11 Electronic Mosquito Repellent Circuit https://www.electronicshub.org/electronic-mosquito-repellent-circuit/
+**Project – 11** Electronic Mosquito Repellent Circuit https://www.electronicshub.org/electronic-mosquito-repellent-circuit/
 
 Aim – To design and built an electronic mosquito repellant circuit.
 
@@ -128,7 +128,7 @@ Once the circuit is assembled and the switch closed, the timer gets the activate
 
 Comments – The advantage of this circuit is that it repels mosquitoes without the need for chemical mosquito repellants. A disadvatnge is that the signals might bounce away if there are too many obstacles. Another disadvantage is that it is not effective for small populations of mosquitoes.
 
-Project – 12
+**Project – 12**
 
 IoT Pet Feeder https://www.hackster.io/circuito-io-team/iot-pet-feeder-10a4f3
 
@@ -140,7 +140,7 @@ The implementation has a PIR sensor, Arduino uno (or other), servo, speaker, esp
 
 Comments – The system can be expanded and made more sophisticated based on need by adding more sensors or by increasing the quality of the sensors.
 
-Project – 13
+**Project – 13**
 
 Auto Night Lamp Circuits https://www.electronicshub.org/auto-night-lamp-using-high-power-led/
 
@@ -152,7 +152,7 @@ The project consists of two different sensing devices, a U1 IC 741 and a U2 IC74
 
 Comments – The project is a simple implementation of the making a automatic night lamp control system without using a microcontroller.
 
-Project – 14
+**Project – 14**
 
 Police Siren Circuit using NE555 Timer
 
@@ -164,7 +164,7 @@ Description – The main concept of the project is the multivibrator. A multivib
 
 Comments – This audio can also be enhanced using an Op-amp to amplify the signal sent out to the buzzer. Another thing that can be done is to use a microcontroller to control the output of the buzzer.
 
-Project – 15
+**Project – 15**
 
 Celsius Scale Thermometer using AT89C51 and LM35
 

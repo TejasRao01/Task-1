@@ -1,4 +1,5 @@
-**Project – 1** https://www.electronicshub.org/water-level-controller-using-8051-microcontroller/ Water Level Controller using 8051 Microcontroller Aim - This projects aims to create automate the proccess of controlling the level of water in a tank using a system controlled by a microcontroller.
+**Project – 1**
+https://www.electronicshub.org/water-level-controller-using-8051-microcontroller/ Water Level Controller using 8051 Microcontroller Aim - This projects aims to create automate the proccess of controlling the level of water in a tank using a system controlled by a microcontroller.
 
 Description – The system consists of a series of sensors that are used to measure the level of water in the tank. The sensors work on the priciplle of the conductivity of water. The system mentioned in the example consists of 4 wires running up to different levels in the tanks. The circuts will get completed based on the level of water inside the tank. Once the circuits get completed, they produce a signal at the inputs of the microcontroller, which is enabled by the help of transistors.
 

@@ -1,4 +1,4 @@
-Raspberry Pi Security Camera www.instructables.com/Raspberry-Pi-Security-Camera-1/
+# Raspberry Pi Security Camera www.instructables.com/Raspberry-Pi-Security-Camera-1/
 
 
 Project Statement – The project aims to create a security camera system using a Raspberry Pi. The user should be able to manually change the camera settings and take photos and videos manually. 
@@ -84,7 +84,7 @@ out in arecursive fashion
 
 
 
- Gesture Controlled Robot https://www.hackster.io/357221/gesture-controlled-robot-74c5a5
+ #Gesture Controlled Robot https://www.hackster.io/357221/gesture-controlled-robot-74c5a5
 
 
 Project Statement – The project aims to create a gesture controlled robot. The robots motion should be wirerlessly controlled by the motion of a handled motion remote. The robot should have complete freedom to move in any direction. 

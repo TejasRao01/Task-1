@@ -31,6 +31,10 @@ Description – The project consists of an Arduino Uno, Arduino Nano, an Interia
 
 Once the circuits for the reciever and transmission parts are completed, the most important task is coding the control system. The IMU consists of an accelerometer and a gyroscope. The robot should accelerate when the absolute value of acceleration in any direction is between 20 and 80.
 
+
+![Working of a hand gesture controlled robot (online-video-cutter com)](https://user-images.githubusercontent.com/85809459/122042442-c7f0df00-cdf7-11eb-9fdd-fa907b672572.gif)
+
+
 **Project – 4**
 
 Password Based Door Lock System using 8051 Microcontroller

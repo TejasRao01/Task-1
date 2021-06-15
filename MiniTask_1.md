@@ -75,6 +75,8 @@ Description – The circuits are designed to remotely detect the dignals from th
 The components required for this project are prebuild DTMF decoders and relays and a reciever phone. The phone is connected to the decoder via an audio-jack, and once the phone is connected to the user’s phone ,it sends the signals from the mobile phone and the decoder converts it to a binary signal. This binary signal is sent to the relay and the desired task is performed.
 
 Comments – This is a simple application of remotely controlling home appliances without using a microcontroller. A disadvange of this system is that it requires another cellphone to work, which will be expensive unless there is a spare, unused phone available. Another issue is that there is no security and a limited number of devices can be connected.
+![mobile](https://user-images.githubusercontent.com/85809459/121998811-138c9400-cdca-11eb-8a48-915104c29b20.jpg)
+
 
 **Project – 7**
 
@@ -87,6 +89,8 @@ Description – The project is uses a temperature controlled switch which is a d
 This project uses a LM35 as the temperature sensor, a LM358 OP-Amp as the controller, and a 5V relay module. The relay module is used to amplify the ‘ON’ signal sent out by the OP-Amp. The OP-Amp is used in the comparator configuration. The non-inverting terminal of the Op-Amp is connected to the output of the sensor and the inverting terminal is connected to a poteniometer. Initially, the inverting terminal has a higher voltage than the non-inverting terminal and the output is ‘OFF’. Later, as the temperature rises, the output of the sensor increases and after a certain critical temperautre, the voltage at the non-onverting terminal exceeeds the inverting terminal and the output changes to ‘ON’. Thus, it acts like a switch.
 
 Comments – This is an example of a project that does not use a microcontroller to automatically turn on or off appliances at home. A limitation of this system is that it gives only one output for one temperature. If different outputs are needed for dfferent temperature ranges, then a microcontroller might be needed.
+
+![temp](https://user-images.githubusercontent.com/85809459/121998814-15565780-cdca-11eb-86a2-c4ddd67e4a14.jpg)
 
 **Project – 8**
 
@@ -102,6 +106,10 @@ The interface between the Arduino and hte joystick is achieved using the Joystic
 
 Comments – This project is useful to control remotely controlled cars and LEDs.
 
+![joy](https://user-images.githubusercontent.com/85809459/121998820-16878480-cdca-11eb-9a3b-f7fd4f71a445.jpg)
+
+
+
 **Project – 9**
 
 Car Parking Guard Circuit Using Infrared Sensor https://www.electronicshub.org/car-parking-guard-circuit-using-infrared-sensor/
@@ -115,6 +123,8 @@ The IR sensor first sends a signal that sets off the timer. This is done using t
 If there is an obstacle, the IR sensor recieves the rebound rays, and sends a signal to the tone detector, causing it to turn low and get disabled. The LED, thus will remain lighting and buzzer makes a continous sound.
 
 Comments – The circuit for this system is rather complex, however it is not too difficult to repreoduce.
+
+![jammer](https://user-images.githubusercontent.com/85809459/121998824-17b8b180-cdca-11eb-8a23-276b21808eb5.jpg)
 
 **Project – 10** TV Remote Jammer Circuit https://www.electronicshub.org/tv-remote-jammer-circuit/
 

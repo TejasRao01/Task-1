@@ -162,6 +162,9 @@ The implementation has a PIR sensor, Arduino uno (or other), servo, speaker, esp
 
 Comments – The system can be expanded and made more sophisticated based on need by adding more sensors or by increasing the quality of the sensors.
 
+![playdog_gif_YI8e1YcUYp](https://user-images.githubusercontent.com/85809459/122043085-92002a80-cdf8-11eb-90d5-9c1b0d695fee.gif)
+
+
 **Project – 13**
 
 Auto Night Lamp Circuits https://www.electronicshub.org/auto-night-lamp-using-high-power-led/

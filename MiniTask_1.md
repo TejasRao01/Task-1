@@ -202,3 +202,6 @@ Description – This project consists of a LM35 temperature sensing sensor that 
 The main principle behind this project is analog to digital conversion. The input from the LM35 sensor is first converted to digital signals which are then sent to the microcontroller, which in turn, processes the signal and sends the required output to an Led display. A small amount of calculation also has to be done to convert the input from the sensor to Celsius.
 
 Comments – While the microcontroller mentioned for this project is not an Arduino, it can very easily be implemented using an Arduino.
+
+![Celsius Scale Thermometer (online-video-cutter com)](https://user-images.githubusercontent.com/85809459/122043786-5dd93980-cdf9-11eb-84cb-dca18cf661d2.gif)
+
